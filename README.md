@@ -23,3 +23,4 @@ Do not forget to add the file in web.assets_backend
   </xpath>
 </template>
 ```
+**Tested on Odoo 13**
